@@ -34,7 +34,6 @@
 12. This app has a news list view with search bar and news detail view.
 13. I have used Material design app themes to style UI widgets.
 
-# Sample screenshots:
 
 
 
